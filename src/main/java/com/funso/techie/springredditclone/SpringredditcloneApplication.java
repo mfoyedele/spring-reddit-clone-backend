@@ -1,4 +1,4 @@
-package com.example.springredditclone;
+package com.funso.techie.springredditclone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
