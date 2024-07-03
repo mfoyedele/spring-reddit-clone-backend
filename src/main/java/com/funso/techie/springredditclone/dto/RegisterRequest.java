@@ -1,4 +1,4 @@
-package com.programming.techie.springredditclone.dto;
+package com.funso.techie.springredditclone.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-package com.programming.techie.springredditclone.config;
+package com.funso.techie.springredditclone.config;
 
 import com.nimbusds.jose.jwk.JWK;
 import com.nimbusds.jose.jwk.JWKSet;

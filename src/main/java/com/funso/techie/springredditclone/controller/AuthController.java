@@ -1,11 +1,11 @@
-package com.programming.techie.springredditclone.controller;
+package com.funso.techie.springredditclone.controller;
 
-import com.programming.techie.springredditclone.dto.AuthenticationResponse;
-import com.programming.techie.springredditclone.dto.LoginRequest;
-import com.programming.techie.springredditclone.dto.RefreshTokenRequest;
-import com.programming.techie.springredditclone.dto.RegisterRequest;
-import com.programming.techie.springredditclone.service.AuthService;
-import com.programming.techie.springredditclone.service.RefreshTokenService;
+import com.funso.techie.springredditclone.dto.AuthenticationResponse;
+import com.funso.techie.springredditclone.dto.LoginRequest;
+import com.funso.techie.springredditclone.dto.RefreshTokenRequest;
+import com.funso.techie.springredditclone.dto.RegisterRequest;
+import com.funso.techie.springredditclone.service.AuthService;
+import com.funso.techie.springredditclone.service.RefreshTokenService;
 import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
