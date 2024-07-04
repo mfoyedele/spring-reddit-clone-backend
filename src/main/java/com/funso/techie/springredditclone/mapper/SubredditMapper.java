@@ -1,8 +1,8 @@
-package com.programming.techie.springredditclone.mapper;
+package com.funso.techie.springredditclone.mapper;
 
-import com.programming.techie.springredditclone.dto.SubredditDto;
-import com.programming.techie.springredditclone.model.Post;
-import com.programming.techie.springredditclone.model.Subreddit;
+import com.funso.techie.springredditclone.dto.SubredditDto;
+import com.funso.techie.springredditclone.model.Post;
+import com.funso.techie.springredditclone.model.Subreddit;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
