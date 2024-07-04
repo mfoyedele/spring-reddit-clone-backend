@@ -1,7 +1,7 @@
-package com.programming.techie.springredditclone.controller;
+package com.funso.techie.springredditclone.controller;
 
-import com.programming.techie.springredditclone.dto.SubredditDto;
-import com.programming.techie.springredditclone.service.SubredditService;
+import com.funso.techie.springredditclone.dto.SubredditDto;
+import com.funso.techie.springredditclone.service.SubredditService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
