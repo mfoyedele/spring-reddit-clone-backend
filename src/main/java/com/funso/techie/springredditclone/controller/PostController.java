@@ -1,8 +1,8 @@
-package com.programming.techie.springredditclone.controller;
+package com.funso.techie.springredditclone.controller;
 
-import com.programming.techie.springredditclone.dto.PostRequest;
-import com.programming.techie.springredditclone.dto.PostResponse;
-import com.programming.techie.springredditclone.service.PostService;
+import com.funso.techie.springredditclone.dto.PostRequest;
+import com.funso.techie.springredditclone.dto.PostResponse;
+import com.funso.techie.springredditclone.service.PostService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
