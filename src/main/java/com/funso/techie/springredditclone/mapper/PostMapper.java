@@ -13,8 +13,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.Optional;
 
-import static com.programming.techie.springredditclone.model.VoteType.DOWNVOTE;
-import static com.programming.techie.springredditclone.model.VoteType.UPVOTE;
+import static com.funso.techie.springredditclone.model.VoteType.DOWNVOTE;
+import static com.funso.techie.springredditclone.model.VoteType.UPVOTE;
 
 @Mapper(componentModel = "spring")
 public abstract class PostMapper {
