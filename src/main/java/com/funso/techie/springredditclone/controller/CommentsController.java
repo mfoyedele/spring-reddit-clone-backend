@@ -1,7 +1,7 @@
-package com.programming.techie.springredditclone.controller;
+package com.funso.techie.springredditclone.controller;
 
-import com.programming.techie.springredditclone.dto.CommentsDto;
-import com.programming.techie.springredditclone.service.CommentService;
+import com.funso.techie.springredditclone.dto.CommentsDto;
+import com.funso.techie.springredditclone.service.CommentService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
