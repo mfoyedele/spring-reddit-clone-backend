@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Optional;
 
-import static com.programming.techie.springredditclone.model.VoteType.UPVOTE;
+import static com.funso.techie.springredditclone.model.VoteType.UPVOTE;
 
 @Service
 @AllArgsConstructor
