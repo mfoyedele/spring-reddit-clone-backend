@@ -141,7 +141,7 @@
 						</path>
 						<path>
 							<groupId>org.projectlombok</groupId>
-							<artifactId>look-mapstruct-binding</artifactId>
+							<artifactId>lombok-mapstruct-binding</artifactId>
 							<version>0.2.0</version>
 						</path>
 					</annotationProcessorPaths>
