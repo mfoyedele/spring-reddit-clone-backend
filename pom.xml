@@ -150,7 +150,7 @@
 			<plugin>
 				<groupId>org.jetbrains.kotlin</groupId>
 				<artifactId>kotlin-maven-plugin</artifactId>
-				<version>${kotlin.version}</version>
+				<version>${ktlin.version}</version>
 				<executions>
 					<execution>
 						<id>compile</id>
