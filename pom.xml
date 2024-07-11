@@ -111,7 +111,7 @@
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
 		<dependency>
-			<groupId>org.mapstrt</groupId>
+			<groupId>org.mapstruct</groupId>
 			<artifactId>mapstruct</artifactId>
 			<version>${org.mapstruct.version}</version>
 		</dependency>
