@@ -9,10 +9,10 @@ import org.springframework.scheduling.annotation.EnableAsync;
 @SpringBootApplication
 @EnableAsync
 @Import(OpenAPIConfiguration.class)
-public class SpringRedditCloneApplication {
+public class SpringredditcloneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(com.funso.techie.springredditclone.SpringRedditCloneApplication.class, args);
+		SpringApplication.run(SpringredditcloneApplication.class, args);
 	}
 
 }
