@@ -17,7 +17,7 @@ public class OpenAPIConfiguration {
                 .info(new Info().title("Reddit Clone API")
                         .description("API for Reddit Clone Application")
                         .version("v0.0.1")
-                        .license(new License().name("Apache License Version 2.0").url("http://programmingtechie.com")))
+                        .license(new License().name("Apache License Version 2.0").url("https://programmingtechie.com")))
                 .externalDocs(new ExternalDocumentation()
                         .description("Expense Tracker Wiki Documentation")
                         .url("https://expensetracker.wiki/docs"));
