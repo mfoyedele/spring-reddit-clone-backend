@@ -31,7 +31,7 @@ class PostServiceTest {
     @Mock
     private PostRepository postRepository;
     @Mock
-    private SubredditRepository subredditRepository;
+    private SubredditRepository su
     @Mock
     private UserRepository userRepository;
     @Mock
