@@ -36,13 +36,7 @@ class PostServiceTest {
     private UserRepository userRepository;
     @Mock
     private AuthService authService;
-    @Mock
-    private PostMapper postMapper;
 
-    @Captor
-    private ArgumentCaptor<Post> postArgumentCaptor;
-
-    private PostService postService;
 
     @BeforeEach
     public void setup() {
