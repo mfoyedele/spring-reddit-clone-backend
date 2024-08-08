@@ -1,0 +1,5 @@
+#Modified by Testcontainers
+#Wed Aug 07 10:35:14 WAT 2024
+docker.client.strategy=org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy
+tc.host=127.0.0.1
+testcontainers.reuse.enable=true
