@@ -3,3 +3,12 @@
 docker.client.strategy=org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy
 tc.host=127.0.0.1
 testcontainers.reuse.enable=true
+
+
+# Docker Desktop Engine
+{
+  "experimental": false,
+  "hosts": [
+    "tcp://0.0.0.0:2375"
+  ]
+}
